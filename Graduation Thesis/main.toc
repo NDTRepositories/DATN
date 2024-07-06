@@ -1,0 +1,132 @@
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {\hfil } DANH MỤC KÝ HIỆU VÀ CHỮ VIẾT TẮT}{i}{section*.6}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } DANH MỤC HÌNH VẼ}{vi}{section*.7}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } DANH MỤC BẢNG BIỂU}{viii}{section*.8}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }TÓM TẮT ĐỒ ÁN}{ix}{section*.9}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }CHƯƠNG 1. TỔNG QUAN}{1}{section*.9}%
+\contentsline {subsection}{\numberline {1.1}Tính cấp thiết của đề tài}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Mục đích nghiên cứu}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Phạm vi đề tài}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Nội dung nghiên cứu}{3}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Các nghiên cứu liên quan}{3}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Thiết bị đo}{3}{subsubsection.1.5.1}%
+\contentsline {paragraph}{\numberline {1.5.1.1}Nguồn điện năng lượng mặt trời}{3}{paragraph.1.5.1.1}%
+\contentsline {paragraph}{\numberline {1.5.1.2}Nghiên cứu về tế bào năng lượng mặt trời}{4}{paragraph.1.5.1.2}%
+\contentsline {paragraph}{\numberline {1.5.1.3}Ứng dụng năng lượng mặt trời vào hệ thống IoT}{5}{paragraph.1.5.1.3}%
+\contentsline {paragraph}{\numberline {1.5.1.4}Mức độ tin cậy của hệ thống giám sát ao nuôi tôm sử dụng cảm biến đo thông số nước hãng DFRobot}{7}{paragraph.1.5.1.4}%
+\contentsline {paragraph}{\numberline {1.5.1.5}Hệ thống các nút cảm biến phục vụ môi trường nuôi tôm}{9}{paragraph.1.5.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.2}Công nghệ truyền thông trong IOT}{11}{subsubsection.1.5.2}%
+\contentsline {paragraph}{\numberline {1.5.2.1}Công nghệ mạng không dây sử dụng trong IOT}{11}{paragraph.1.5.2.1}%
+\contentsline {paragraph}{\numberline {1.5.2.2}Giao thức LoRaWAN}{13}{paragraph.1.5.2.2}%
+\contentsline {paragraph}{\numberline {1.5.2.3}Công suất tiêu thụ của công nghệ Lora và Giao thức LoraWan}{16}{paragraph.1.5.2.3}%
+\contentsline {subsection}{\numberline {1.6}Phương pháp đề xuất cho hệ thống}{19}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Kết luận}{19}{subsection.1.7}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }CHƯƠNG 2. CƠ SỞ LÝ THUYẾT}{20}{subsection.1.7}%
+\contentsline {subsection}{\numberline {2.1}Các thông số chỉ tiêu trong môi trường nuôi tôm}{20}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1} Sự ảnh hưởng của nhiệt độ tới môi trường nuôi tôm}{21}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2} Sự ảnh hưởng của DO tới môi trường nuôi tôm}{21}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3} Sự ảnh hưởng của PH tới môi trường nuôi tôm}{22}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4} Sự ảnh hưởng của độ mặn tới môi trường nuôi tôm}{22}{subsubsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.2}Lý thuyết về các thông số và cảm biến}{22}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Lý thuyết PH}{22}{subsubsection.2.2.1}%
+\contentsline {paragraph}{\numberline {2.2.1.1}Cảm biến pH}{23}{paragraph.2.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Lý thuyết chung về Oxi hòa tan và cảm biến DO }{24}{subsubsection.2.2.2}%
+\contentsline {paragraph}{\numberline {2.2.2.1}Lý thuyết chung về Oxi hòa tan}{24}{paragraph.2.2.2.1}%
+\contentsline {paragraph}{\numberline {2.2.2.2}Cảm biến đo DO }{25}{paragraph.2.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Lý thuyết chung về độ mặn và cảm biến EC}{26}{subsubsection.2.2.3}%
+\contentsline {paragraph}{\numberline {2.2.3.1}Lý thuyết chung về độ mặn }{26}{paragraph.2.2.3.1}%
+\contentsline {paragraph}{\numberline {2.2.3.2}Cảm biến đo EC }{28}{paragraph.2.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.2.4}Lý thuyết chung về nhiệt độ và cảm biến nhiệt độ }{30}{subsubsection.2.2.4}%
+\contentsline {paragraph}{\numberline {2.2.4.1}Lý thuyết về nhiệt độ và nhiệt độ trong nước }{30}{paragraph.2.2.4.1}%
+\contentsline {paragraph}{\numberline {2.2.4.2}Lý thuyết về trở nhiệt và cảm biến nhiệt độ }{31}{paragraph.2.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.2.5}Lý thuyết về module chuyển đổi tương tự ADC}{32}{subsubsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.3}Tổng quan về Internet of Things}{34}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Giới thiệu}{34}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2} Cấu trúc của một IOT}{35}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Ứng dụng của IOTsub}{36}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}Một số giao thức truyền tải dữ liệu trong IoT}{37}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1} Giao thức truyền thông MQTT}{37}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Giao thức truyền thông CoAP}{38}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.5}Mạng LPWAN ứng dụng cho IOT}{38}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Giới thiệu về Mạng LPWAN}{38}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Đặc điểm của LPWAN}{39}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Các công nghệ LPWAN phổ biến}{39}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.4}Ứng dụng của công nghệ LPWAN}{40}{subsubsection.2.5.4}%
+\contentsline {subsection}{\numberline {2.6}Công nghệ truyền thông Lora}{41}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Giới thiệu}{41}{subsubsection.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.6.2}Công thức Shannon – Hartley}{41}{subsubsection.2.6.2}%
+\contentsline {subsubsection}{\numberline {2.6.3}Kĩ thuật trải phổ }{42}{subsubsection.2.6.3}%
+\contentsline {subsubsection}{\numberline {2.6.4}Chirp Spread – Spectrum}{43}{subsubsection.2.6.4}%
+\contentsline {paragraph}{\numberline {2.6.4.1}Nén xung (Pulse Compression)}{44}{paragraph.2.6.4.1}%
+\contentsline {paragraph}{\numberline {2.6.4.2}Trải thời gian (Time Spreading)}{45}{paragraph.2.6.4.2}%
+\contentsline {subsubsection}{\numberline {2.6.5}LoRa Chirp Spread – Spectrum}{45}{subsubsection.2.6.5}%
+\contentsline {subsubsection}{\numberline {2.6.6}Các đặc điểm nổi bật }{46}{subsubsection.2.6.6}%
+\contentsline {paragraph}{\numberline {2.6.6.1}Tích tần số - thời gian cao}{46}{paragraph.2.6.6.1}%
+\contentsline {paragraph}{\numberline {2.6.6.2}Bandwidth Scalability}{47}{paragraph.2.6.6.2}%
+\contentsline {paragraph}{\numberline {2.6.6.3}Mức tiêu thụ năng lượng thấp}{47}{paragraph.2.6.6.3}%
+\contentsline {paragraph}{\numberline {2.6.6.4}Multipath Robostness}{47}{paragraph.2.6.6.4}%
+\contentsline {paragraph}{\numberline {2.6.6.5}Long Range}{47}{paragraph.2.6.6.5}%
+\contentsline {paragraph}{\numberline {2.6.6.6}Kháng lại hiệu ứng Doppler}{47}{paragraph.2.6.6.6}%
+\contentsline {paragraph}{\numberline {2.6.6.7}Tăng cường dung lượng mạng}{47}{paragraph.2.6.6.7}%
+\contentsline {paragraph}{\numberline {2.6.6.8}Đặc điểm về định vị}{47}{paragraph.2.6.6.8}%
+\contentsline {subsubsection}{\numberline {2.6.7}Các tham số kỹ thuật chính}{47}{subsubsection.2.6.7}%
+\contentsline {subsubsection}{\numberline {2.6.8}Thời gian truyền}{48}{subsubsection.2.6.8}%
+\contentsline {subsection}{\numberline {2.7}Lý thuyết về mạng Mesh }{49}{subsection.2.7}%
+\contentsline {subsubsection}{\numberline {2.7.1}Giới thiệu}{49}{subsubsection.2.7.1}%
+\contentsline {subsubsection}{\numberline {2.7.2}Đặc điểm của cấu trúc liên kết trong mạng Mesh}{49}{subsubsection.2.7.2}%
+\contentsline {subsubsection}{\numberline {2.7.3}Cấu Trúc của Mạng Mesh}{50}{subsubsection.2.7.3}%
+\contentsline {paragraph}{\numberline {2.7.3.1}Mạng Mesh Toàn Phần (Full Mesh Network)}{50}{paragraph.2.7.3.1}%
+\contentsline {paragraph}{\numberline {2.7.3.2}Mạng Mesh Không Toàn Phần (Partial Mesh Network)}{51}{paragraph.2.7.3.2}%
+\contentsline {subsubsection}{\numberline {2.7.4}Ứng dụng của mạng Mesh}{51}{subsubsection.2.7.4}%
+\contentsline {subsection}{\numberline {2.8}Vi điều khiển}{51}{subsection.2.8}%
+\contentsline {subsubsection}{\numberline {2.8.1}Kiến trúc chung của một vi điều khiển}{51}{subsubsection.2.8.1}%
+\contentsline {subsubsection}{\numberline {2.8.2}Cấu trúc lõi vi xử lý ARM}{53}{subsubsection.2.8.2}%
+\contentsline {subsubsection}{\numberline {2.8.3}Ưu điểm và nhược điểm của vi điều khiển lõi ARM}{54}{subsubsection.2.8.3}%
+\contentsline {subsection}{\numberline {2.9}Chuẩn giao tiếp}{55}{subsection.2.9}%
+\contentsline {subsubsection}{\numberline {2.9.1}GPIO}{55}{subsubsection.2.9.1}%
+\contentsline {subsubsection}{\numberline {2.9.2}Giao tiếp I2C}{55}{subsubsection.2.9.2}%
+\contentsline {subsubsection}{\numberline {2.9.3}Giao tiếp SPI}{56}{subsubsection.2.9.3}%
+\contentsline {subsubsection}{\numberline {2.9.4}Giao tiếp UART}{57}{subsubsection.2.9.4}%
+\contentsline {subsection}{\numberline {2.10}GPS - Global Positioning System}{57}{subsection.2.10}%
+\contentsline {subsubsection}{\numberline {2.10.1}Giới thiệu về GPS}{57}{subsubsection.2.10.1}%
+\contentsline {subsubsection}{\numberline {2.10.2}Cách thức hoạt động của GPS}{58}{subsubsection.2.10.2}%
+\contentsline {subsection}{\numberline {2.11}Lý thuyết về hệ điều hành thời gian thực RTOS }{58}{subsection.2.11}%
+\contentsline {subsubsection}{\numberline {2.11.1}Giới thiệu về RTOS}{58}{subsubsection.2.11.1}%
+\contentsline {subsection}{\numberline {2.12}Giới thiệu về phần mềm thiết kế 3D}{59}{subsection.2.12}%
+\contentsline {subsubsection}{\numberline {2.12.1}Giới thiệu về Fusion 360}{59}{subsubsection.2.12.1}%
+\contentsline {subsubsection}{\numberline {2.12.2}Các tính năng của Fusion 360}{59}{subsubsection.2.12.2}%
+\contentsline {subsubsection}{\numberline {2.12.3}Ứng dụng của Fusion 360}{60}{subsubsection.2.12.3}%
+\contentsline {subsection}{\numberline {2.13}Kết luận}{60}{subsection.2.13}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }CHƯƠNG 3. THIẾT KẾ HỆ THỐNG VÀ THỬ NGHIỆM}{61}{subsection.2.13}%
+\contentsline {subsection}{\numberline {3.1}Phân tích hệ thống}{61}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Mục đích của hệ thống}{61}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Đối tượng của hệ}{61}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Yêu cầu chức năng và phi chức năng}{61}{subsubsection.3.1.3}%
+\contentsline {paragraph}{\numberline {3.1.3.1}Yêu cầu chức năng}{61}{paragraph.3.1.3.1}%
+\contentsline {paragraph}{\numberline {3.1.3.2}Yêu cầu phi chức năng}{62}{paragraph.3.1.3.2}%
+\contentsline {subsection}{\numberline {3.2}Thiết kế hệ thống}{63}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Thiết kế mạch cứng của hệ thống}{63}{subsubsection.3.2.1}%
+\contentsline {paragraph}{\numberline {3.2.1.1}Tổng quan phần cứng}{63}{paragraph.3.2.1.1}%
+\contentsline {paragraph}{\numberline {3.2.1.2}Chi tiết các khối}{64}{paragraph.3.2.1.2}%
+\contentsline {paragraph}{\numberline {3.2.1.3}Thiết kế mạch}{73}{paragraph.3.2.1.3}%
+\contentsline {subsubsection}{\numberline {3.2.2}Thiết kế firmware của hệ thống}{81}{subsubsection.3.2.2}%
+\contentsline {paragraph}{\numberline {3.2.2.1}Lưu đồ thuật toán của Node}{81}{paragraph.3.2.2.1}%
+\contentsline {paragraph}{\numberline {3.2.2.2}Lưu đồ thuật toán của Gateway}{82}{paragraph.3.2.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Thiết kế 3D của vỏ hộp}{83}{subsubsection.3.2.3}%
+\contentsline {paragraph}{\numberline {3.2.3.1}Thiết kế 3D của thiết bị Node}{83}{paragraph.3.2.3.1}%
+\contentsline {paragraph}{\numberline {3.2.3.2}Thiết kế 3D của thiết bị Gateway}{83}{paragraph.3.2.3.2}%
+\contentsline {subsection}{\numberline {3.3}Kểt quả đạt được}{84}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Phần cứng}{84}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Dữ liệu của bộ đo và thiết bị truyền thông}{86}{subsubsection.3.3.2}%
+\contentsline {paragraph}{\numberline {3.3.2.1}Các bước tính toán giá trị cảm biến}{86}{paragraph.3.3.2.1}%
+\contentsline {paragraph}{\numberline {3.3.2.2}Dữ liệu thực tế của truyền thông}{92}{paragraph.3.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Thử nghiệm hệ thống}{98}{subsubsection.3.3.3}%
+\contentsline {paragraph}{\numberline {3.3.3.1}Lắp đặt thiết bị tại công ty mobifone GLOBAL}{98}{paragraph.3.3.3.1}%
+\contentsline {paragraph}{\numberline {3.3.3.2}Lắp đặt thiết bị tại kênh Giang – Hải Phòng}{99}{paragraph.3.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Kết luận}{101}{subsection.3.4}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }KẾT LUẬN}{102}{section*.170}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }Kết luận chung}{102}{section*.171}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }Hướng phát triển}{102}{section*.172}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }Kiến nghị và đề xuất}{102}{section*.173}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }TÀI LIỆU THAM KHẢO}{103}{section*.174}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } PHỤ LỤC}{108}{section*.175}%

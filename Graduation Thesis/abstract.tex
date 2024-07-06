@@ -1,0 +1,31 @@
+\section*{TÓM TẮT ĐỒ ÁN}
+\phantomsection\addcontentsline{toc}{section}{\numberline {}TÓM TẮT ĐỒ ÁN}
+Đồ án tốt nghiệp được thực hiện xuất phát từ quá trình học tập và nghiên cứu xu hướng công nghệ hiện đại, ứng dụng vào thực tế với những thiết kế tối ưu nhất và lòng yêu quê hương nơi mình sinh ra. Nội dung của đồ án giải quyết bài toán thiết kế một hệ thống mạng cảm biến không dây nhận dữ liệu đo đạc các thông số môi trường nuôi tôm từ nhiều ao nuôi, mở rộng ra là có thể hoạt động riêng lẻ từng bộ đo đối với hộ gia đình quy mô nhỏ, hoạt động ổn định và liên tục trong việc thực hiện giám sát các thông số từ xa với nhiều thiết bị tại mọi vị trí trên bản đồ. Để có thể giải quyết tốt bài toán trên em đã tham khảo nhiều nguồn mở, kinh nhiệm của các anh chị đi trước và một số bài báo để tìm ra thông số môi trường nước nuôi tôm cần thiết và phần cứng phù hợp với vấn đề đặt ra. Trong quá trình đó vấn đề liên quan đến cảm biến, cụ thể là lấy mẫu các dung dịch chuẩn tìm được giải giải quyết vấn đề nhiễu trong môi trường nước giữa các cảm biến, khả năng hoạt động ổn định là theo dõi liên tục tại các địa phương nơi hệ thống điện không ổn định, diện tích ao nuôi cách xa nhau, vấn đề nền tảng IoT lưu trữ dữ liệu sử dụng nền tảng có sẵn hỗ trợ API để đấy dữ liệu và hiển thị dữ liệu. 
+
+Đồ án có ý tưởng về một hệ thống mạng cảm biến không dây theo dõi các thông số môi trường nước như nhiệt độ, pH, độ mặn, DO, lấy dữ liệu vị trí đo, thời gian được hiển thị tại bất kì địa điểm nào trên bản đồ, hệ thống được cung cấp nguồn adapter và pin Lithium có thể sạc được nhờ năng lượng mặt trời và có thể đặt tại bất kì địa điểm nào. Có thể ứng dụng vào các hộ gia đình lớn hoặc quy mô nhỏ, địa phương có lưới điện không ổn định, nhưng cần có một số cải tiến trong tương lai như: đưa ra các thông số dự đoán sớm nhờ mô hình AI tiên tiến, tích hợp một phần cứng nhằm giải quyết nhanh chóng vấn đề thông số nước khi khí hậu thất thường như hiện nay.
+\clearpage
+
+\section*{ABSTRACT}
+
+The graduation project was initiated from the process of studying and researching modern technological trends, applying them in practice with the most optimal designs and a love for the homeland where I was born. The content of the project addresses the problem of designing a wireless sensor network system to receive measurement data of environmental parameters in shrimp farming ponds, which can be expanded to operate individually for small-scale households, operating stably and continuously in monitoring parameters remotely with multiple devices at any location on the map. To effectively solve this problem, I have referred to many open sources, the experience of predecessors, and several articles to identify the necessary water environment parameters for shrimp farming and the appropriate hardware for the given issue. During this process, issues related to sensors, specifically sampling standard solutions to solve the problem of noise in the water environment among sensors, ensuring stable operation through continuous monitoring in localities with unstable power systems and ponds spread over large areas, and using IoT platforms to store data with available platforms supporting APIs for data pushing and display were addressed.
+
+The project envisions a wireless sensor network system that monitors water environment parameters such as temperature, pH, salinity, and DO, capturing the measurement location and time displayed at any location on the map. The system is powered by an adapter and rechargeable Lithium battery via solar energy and can be placed at any location. It can be applied to both large and small-scale households and localities with unstable power grids but requires some future improvements such as early prediction parameters using advanced AI models and integrating hardware to quickly address water parameter issues due to current erratic climate changes.
+
+\cleardoublepage
+
+\newpage
+\section*{PHẦN MỞ ĐẦU}
+
+Trong đồ án này, em tập trung xây dựng hệ thống gồm hai node và một gateway. Node cảm biến thu thập dữ liệu các thông số môi trường: độ mặn, pH, DO, nhiệt độ. Gateway thu thập dữ liệu gửi từ node thông qua Lora, được lưu trữ trên máy chủ (Server), dữ liệu từ hệ thống được quan sát thông qua bản đồ GIS, hoặc trực tiếp trên màn hình thiết bị đo. Được cung cấp điện áp ổn định và lâu dài trong quá trình theo dõi dữ liệu, di chuyển và lắp đặt dễ dàng. Trong quá trình tìm hiểu, em đã kết hợp tài liệu từ nhiều nguồn như báo nghiên cứu khoa học, các đồ án của các anh chị đi trước và tham khảo các trang web để có kiến thức hoàn thiện đề tài.
+
+Nội dung trình bày đồ án tốt nghiệp gồm 3 chương:
+\begin{itemize}[label= $\triangleright$]
+\item CHƯƠNG 1: Tổng quan về hệ thống mạng cảm biến không dây đo thông số nước
+    Trình bày tổng quát về đề tài, tính cấp thiết, đặt vấn đề, mục đích nghiên cứu, các công trình nghiên cứu liên quan, phương pháp và đề xuất hệ thống.
+\item CHƯƠNG 2: Cơ sở lý thuyết
+    Giới thiệu tổng quan về IoT, các thành phần của IoT, giao thức truyền thông IoT, ảnh hưởng các thông số nước đến với môi trường nuôi tôm.
+\item CHƯƠNG 3: Xây dựng hệ thống, thử nghiệm và đánh đánh giá kết quả đạt được
+    Trình bày chi tiết phương pháp thực hiện, phân tích, thiết kế sơ đồ khối hệ thống và sơ đồ của từng khối, khối thành phần để xây dựng hệ thống đo thông số môi trường nước. Trình bày phương pháp đánh giá độ chính xác, sai số và hạn chế của các phần cứng nhằm đánh giá kết quả đạt được.
+\end{itemize}
+
+\cleardoublepage

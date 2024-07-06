@@ -1,0 +1,9 @@
+{
+     "idf.adapterTargetName": "esp32s3",
+     "files.associations": {
+          "string.h": "c",
+          "unistd.h": "c",
+          "inttypes.h": "c"
+     },
+     "idf.flashType": "JTAG"
+}

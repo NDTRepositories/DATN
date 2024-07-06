@@ -1,0 +1,129 @@
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Bản tin chào buối sáng 10/6/2024 tại VTV1\cite {VTVGo} }}{1}{figure.caption.10}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Máy đo chất lượng nước đa chỉ tiêu Hanna HI9829 giá 42.482.000 đồng \cite {HannaHI9829} }}{2}{figure.caption.11}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Hệ thống giám sát môi trường nước \cite {E-SENSORAQUA} }}{3}{figure.caption.12}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Tấm pin mặt trời GPDL5\cite {batt2022design}}}{4}{figure.caption.13}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Nguyên lý hoạt động của pin mặt trời \cite {batt2022design}}}{4}{figure.caption.14}%
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Mạch tương đương của pin quang điện \cite {batt2022design}}}{5}{figure.caption.15}%
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Sơ đồ khối của hệ thống PV \cite {batt2022design}}}{5}{figure.caption.16}%
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Mô hình ghép nối khối nguồn dùng năng lượng mặt trời \cite {el2023developed}}}{6}{figure.caption.17}%
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Bộ đo theo dõi thông số thời tiết tại thành phố\cite {wang2019new}}}{7}{figure.caption.18}%
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Sơ đồ mạch \cite {zaini2020data}}}{7}{figure.caption.19}%
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Thiết kế bản đồ cảm biến ao\cite {zaini2020data}}}{7}{figure.caption.20}%
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Biểu đồ so sánh cảm biến pH và máy đo \cite {zaini2020data}}}{8}{figure.caption.21}%
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Biểu đồ so sánh cảm biến DO và máy đo \cite {zaini2020data}}}{8}{figure.caption.22}%
+\contentsline {figure}{\numberline {1.14}{\ignorespaces Biểu đồ thanh kiểm tra chiều dài cáp\cite {zaini2020data}}}{9}{figure.caption.23}%
+\contentsline {figure}{\numberline {1.15}{\ignorespaces Tổng quan hệ thống \cite {khanhhe}}}{9}{figure.caption.24}%
+\contentsline {figure}{\numberline {1.16}{\ignorespaces Sơ đồ thu thập dữ liệu\cite {khanhhe}}}{10}{figure.caption.25}%
+\contentsline {figure}{\numberline {1.17}{\ignorespaces Sơ đồ khối nút cảm biến cố định\cite {khanhhe}}}{10}{figure.caption.26}%
+\contentsline {figure}{\numberline {1.18}{\ignorespaces Sơ đồ khối nút cảm biến di định\cite {khanhhe}}}{10}{figure.caption.27}%
+\contentsline {figure}{\numberline {1.19}{\ignorespaces Sơ đồ khối bộ xử lý trung tâm\cite {khanhhe}}}{11}{figure.caption.28}%
+\contentsline {figure}{\numberline {1.20}{\ignorespaces Sơ đồ truyền nhận dữ liệu\cite {khanhhe}}}{11}{figure.caption.29}%
+\contentsline {figure}{\numberline {1.21}{\ignorespaces Hệ số lan truyền LoRa, tốc độ bit và thời gian truyền\cite {LoRaAlliance}}}{13}{figure.caption.31}%
+\contentsline {figure}{\numberline {1.22}{\ignorespaces Định dạng bản tin của LoraWan \cite {augustin2016study}}}{15}{figure.caption.32}%
+\contentsline {figure}{\numberline {1.23}{\ignorespaces xung đột gói trong mạng LoRaWAN \cite {augustin2016study}}}{16}{figure.caption.33}%
+\contentsline {figure}{\numberline {1.24}{\ignorespaces Dòng sử dụng của bộ phát tương ứng với các công suất phát\cite {ochoa2017evaluating}}}{16}{figure.caption.34}%
+\contentsline {figure}{\numberline {1.25}{\ignorespaces Dòng sử dụng của bộ thu tương ứng với các BW khác nhau \cite {ochoa2017evaluating}}}{16}{figure.caption.35}%
+\contentsline {figure}{\numberline {1.26}{\ignorespaces Mất mát liên kết(MCL) tối đa của LoRa với băng thông 125kHz\cite {ochoa2017evaluating}}}{17}{figure.caption.36}%
+\contentsline {figure}{\numberline {1.27}{\ignorespaces Tiêu thụ năng lượng ở BW 125kHz - $\mathrm {CR}=\frac {4}{5}$ theo phạm vi truyền D\cite {ochoa2017evaluating}}}{17}{figure.caption.37}%
+\contentsline {figure}{\numberline {1.28}{\ignorespaces Tối ưu mức tiêu thụ ở BW 125kHz\cite {ochoa2017evaluating}}}{18}{figure.caption.38}%
+\contentsline {figure}{\numberline {1.29}{\ignorespaces Tối ưu mức tiêu thụ ở các BW khác nhau\cite {ochoa2017evaluating}}}{18}{figure.caption.39}%
+\contentsline {figure}{\numberline {1.30}{\ignorespaces Chiến lược tối ưu mức tiêu thụ ở các BW khác nhau \cite {ochoa2017evaluating}}}{19}{figure.caption.40}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Sơ đồ cấu trúc của ISE hydro, tham chiếu và vôn kế \cite {HeadPH}}}{24}{figure.caption.42}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Sơ đồ cấu trúc của ISE hydro, tham chiếu và vôn kế \cite {HeadPH}}}{24}{figure.caption.43}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Sơ đồ cấu tạo đầu đo DO loại Galvanic\cite {LAQUA}}}{26}{figure.caption.44}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Sơ đồ đầu đo dẫn điện\cite {EC}}}{28}{figure.caption.45}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Độ dẫn điện của các dung dịch thông dụng\cite {Conductivity}}}{29}{figure.caption.46}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Sơ đồ thể hiện hoạt động của đầu dò độ dẫn điện\cite {EC}}}{30}{figure.caption.47}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Biều đồ sự ảnh hưởng của nhiệt độ tới trở nhiệt\cite {NTC}}}{31}{figure.caption.48}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Cảm biến nhiệt độ NTC 10k$\Omega $ \cite {NTC}}}{32}{figure.caption.49}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Ví dụ về cách hoạt động của bộ chuyển đổi ADC\cite {Analog}}}{32}{figure.caption.50}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Hình so sánh sự ảnh hưởng của độ phân giải tới bộ chuyển đổi ADC\cite {Analog}}}{33}{figure.caption.51}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Mô hình hệ thống IOT\cite {IOT}}}{34}{figure.caption.52}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Kiến trúc của một IOT\cite {jing2014security}}}{35}{figure.caption.53}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Ứng dụng của IOT \cite {uNGDUNGiot}}}{36}{figure.caption.54}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Mô hình sử dụng giao thức MQTT\cite {ansari2018internet}}}{37}{figure.caption.55}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Mô hình sử dụng giao thức CoAP và HTTP\cite {ansari2018internet}}}{38}{figure.caption.56}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Mô hình mạng LPWAN \cite {chaudhari2020lpwan}}}{39}{figure.caption.57}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Kỹ thuật trải phổ sử dụng chuỗi mã trải phổ \cite {semtech2015an1200}}}{42}{figure.caption.58}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Sơ đồ trải phổ \cite {semtech2015an1200}}}{42}{figure.caption.59}%
+\contentsline {figure}{\numberline {2.19}{\ignorespaces Up-chirp trong miền thời gian \cite {zhang2019spread}}}{43}{figure.caption.60}%
+\contentsline {figure}{\numberline {2.20}{\ignorespaces Down-chirp trong miền thời gian \cite {zhang2019spread}}}{44}{figure.caption.61}%
+\contentsline {figure}{\numberline {2.21}{\ignorespaces Xung chirp và kết quả xung sau khi nén \cite {zhang2019spread}}}{44}{figure.caption.62}%
+\contentsline {figure}{\numberline {2.22}{\ignorespaces Sơ đồ khối CSS \cite {wang2008performance}}}{44}{figure.caption.63}%
+\contentsline {figure}{\numberline {2.23}{\ignorespaces Full Mesh Network và Partial Mesh Network \cite {Meshtopology}}}{50}{figure.caption.64}%
+\contentsline {figure}{\numberline {2.24}{\ignorespaces Kiến trúc chung của một vi điều khiển \cite {batatina2021aplikimi}}}{52}{figure.caption.65}%
+\contentsline {figure}{\numberline {2.25}{\ignorespaces Cấu trúc lõi ARM \cite {ARM}}}{53}{figure.caption.66}%
+\contentsline {figure}{\numberline {2.26}{\ignorespaces Mô hình chuẩn giao tiếp I2C\cite {I2C}}}{55}{figure.caption.67}%
+\contentsline {figure}{\numberline {2.27}{\ignorespaces Mô hình chuẩn giao tiếp SPI\cite {SPI}}}{56}{figure.caption.68}%
+\contentsline {figure}{\numberline {2.28}{\ignorespaces Mô hình chuẩn giao tiếp UART\cite {UART}}}{57}{figure.caption.69}%
+\contentsline {figure}{\numberline {2.29}{\ignorespaces Cách thức hoạt động của GPS \cite {GPS} }}{58}{figure.caption.70}%
+\contentsline {figure}{\numberline {2.30}{\ignorespaces Phần mềm Fusion 360}}{59}{figure.caption.71}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Sơ đồ khối hệ thống Node}}{63}{figure.caption.72}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Sơ đồ khối hệ thống Gateway}}{64}{figure.caption.73}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Vi điều khiển ESP32 S3\cite {esp32s3} }}{65}{figure.caption.74}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Cảm biến nhiệt độ NTC 10k$\Omega $\cite {ntcdata}}}{66}{figure.caption.76}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Cảm biến pH\cite {pHDF}}}{66}{figure.caption.78}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Cảm biến EC\cite {ECDF}}}{67}{figure.caption.80}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Cảm biến DO\cite {DODF}}}{67}{figure.caption.82}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces TFT LCD 1.8 inches\cite {TFT1.8}}}{68}{figure.caption.84}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces TFT LCD 3.5 inches\cite {TFT3.5}}}{68}{figure.caption.86}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Module Sim 7670C\cite {a7670c}}}{69}{figure.caption.88}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Module Lora sx1278\cite {SX1278}}}{70}{figure.caption.90}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces IC CN3795\cite {ICCN3795}}}{71}{figure.caption.92}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Module Relay\cite {relay}}}{72}{figure.caption.94}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Module GPS atgm336h5\cite {GPS_mol}}}{72}{figure.caption.96}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Sơ đồ Adapter cấp nguồn}}{73}{figure.caption.99}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Khối hạ áp và lọc nguồn đầu vào}}{74}{figure.caption.100}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Khối nguồn cấp 3.3V }}{74}{figure.caption.101}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Khối mạch sạc pin năng lượng mặt trời}}{74}{figure.caption.102}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Khối mạch chuyển đổi nguồn điện}}{74}{figure.caption.103}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Khối xử lý các tác vụ nội bộ}}{75}{figure.caption.104}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Sơ đồ khối cảm biến nhiệt độ}}{75}{figure.caption.105}%
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Sơ đồ mạch khuếch đại cho cảm biến pH\cite {pHDF}}}{75}{figure.caption.106}%
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Mạch khuếch đại cảm biến pH thực tế\cite {pHDF}}}{76}{figure.caption.107}%
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Sơ đồ mạch khuếch đại cho cảm biến DO\cite {DODF}}}{76}{figure.caption.108}%
+\contentsline {figure}{\numberline {3.25}{\ignorespaces Mạch khuếch đại của cảm biến DO thực tế\cite {DODF}}}{76}{figure.caption.109}%
+\contentsline {figure}{\numberline {3.26}{\ignorespaces Sơ đồ mạch khuếch đại cho cảm biến EC\cite {ECDF}}}{76}{figure.caption.110}%
+\contentsline {figure}{\numberline {3.27}{\ignorespaces Mạch khuếch đại của cảm biến EC thực tế\cite {ECDF}}}{77}{figure.caption.111}%
+\contentsline {figure}{\numberline {3.28}{\ignorespaces Khối mạch Switch cho cảm biến pH}}{77}{figure.caption.112}%
+\contentsline {figure}{\numberline {3.29}{\ignorespaces Khối mạch Switch cho cảm biến DO}}{77}{figure.caption.113}%
+\contentsline {figure}{\numberline {3.30}{\ignorespaces Khối mạch Switch cho cảm biến EC}}{77}{figure.caption.114}%
+\contentsline {figure}{\numberline {3.31}{\ignorespaces Sơ đồ mạch của khối Lora }}{77}{figure.caption.115}%
+\contentsline {figure}{\numberline {3.32}{\ignorespaces Sơ đồ mạch của khối thời gian thực }}{78}{figure.caption.116}%
+\contentsline {figure}{\numberline {3.33}{\ignorespaces Sơ đồ mạch của khối lưu kết quả }}{78}{figure.caption.117}%
+\contentsline {figure}{\numberline {3.34}{\ignorespaces Sơ đồ mạch của GPS }}{79}{figure.caption.118}%
+\contentsline {figure}{\numberline {3.35}{\ignorespaces Sơ đồ mạch của ADS1115 }}{79}{figure.caption.119}%
+\contentsline {figure}{\numberline {3.36}{\ignorespaces Lớp Top của mạch Node }}{80}{figure.caption.120}%
+\contentsline {figure}{\numberline {3.37}{\ignorespaces Lớp Bottom của mạch Node }}{80}{figure.caption.121}%
+\contentsline {figure}{\numberline {3.38}{\ignorespaces Lớp Top của mạch Gateway }}{80}{figure.caption.122}%
+\contentsline {figure}{\numberline {3.39}{\ignorespaces Lớp Bottom của mạch Gateway }}{80}{figure.caption.123}%
+\contentsline {figure}{\numberline {3.40}{\ignorespaces Lưu đồ thuật toán tác vụ Node }}{81}{figure.caption.124}%
+\contentsline {figure}{\numberline {3.41}{\ignorespaces Lưu đồ thuật toán tác vụ Gateway }}{82}{figure.caption.125}%
+\contentsline {figure}{\numberline {3.42}{\ignorespaces Thiết kế 3D của thiết bị Node }}{83}{figure.caption.126}%
+\contentsline {figure}{\numberline {3.43}{\ignorespaces Thiết kế 3D của thiết bị Gateway }}{84}{figure.caption.127}%
+\contentsline {figure}{\numberline {3.44}{\ignorespaces Mặt trước PCB của Node }}{84}{figure.caption.128}%
+\contentsline {figure}{\numberline {3.45}{\ignorespaces Mặt sau PCB của Node }}{84}{figure.caption.129}%
+\contentsline {figure}{\numberline {3.46}{\ignorespaces Mặt trước PCB của Gateway }}{85}{figure.caption.130}%
+\contentsline {figure}{\numberline {3.47}{\ignorespaces Mặt sau PCB của Gateway }}{85}{figure.caption.131}%
+\contentsline {figure}{\numberline {3.48}{\ignorespaces Mặt trước của mạch Node khi hoàn thiện }}{85}{figure.caption.132}%
+\contentsline {figure}{\numberline {3.49}{\ignorespaces Mặt sau của mạch Node khi hoàn thiện }}{85}{figure.caption.133}%
+\contentsline {figure}{\numberline {3.50}{\ignorespaces Mạch nguồn sau khi hoàn thiện }}{86}{figure.caption.134}%
+\contentsline {figure}{\numberline {3.51}{\ignorespaces Sản phẩm sau khi ghép nối và đóng vỏ của Node }}{86}{figure.caption.135}%
+\contentsline {figure}{\numberline {3.52}{\ignorespaces Sản phẩm sau khi ghép nối và đóng vỏ của Gateway }}{86}{figure.caption.136}%
+\contentsline {figure}{\numberline {3.53}{\ignorespaces Trung tâm nghiên cứu công nghệ môi trường và phát triển bền vững tại Đại học Quốc Gia Hà Nội\cite {VNU}}}{87}{figure.caption.137}%
+\contentsline {figure}{\numberline {3.54}{\ignorespaces Chuẩn bị hóa chất lấy mẫu đo dung dịch }}{91}{figure.caption.142}%
+\contentsline {figure}{\numberline {3.55}{\ignorespaces Thực hiện lấy mẫu đo dung dịch chuẩn }}{92}{figure.caption.143}%
+\contentsline {figure}{\numberline {3.56}{\ignorespaces Thiết bị đo thông số môi trường nước HQ40D tại phòng nghiên cứu }}{92}{figure.caption.144}%
+\contentsline {figure}{\numberline {3.57}{\ignorespaces Thực hiện lấy thống số truyền thông ở Hồ Tây }}{92}{figure.caption.145}%
+\contentsline {figure}{\numberline {3.58}{\ignorespaces Khoảng cách xa nhất lấy dữ liệu của bộ đo }}{93}{figure.caption.146}%
+\contentsline {figure}{\numberline {3.59}{\ignorespaces Đồ thị SNR,lost,RSSI của SF7 }}{93}{figure.caption.148}%
+\contentsline {figure}{\numberline {3.60}{\ignorespaces Đồ thị SNR,lost,RSSI của SF8 }}{94}{figure.caption.150}%
+\contentsline {figure}{\numberline {3.61}{\ignorespaces Đồ thị SNR,lost,RSSI của SF9 }}{95}{figure.caption.153}%
+\contentsline {figure}{\numberline {3.62}{\ignorespaces Đồ thị SNR,lost,RSSI của SF10 }}{95}{figure.caption.156}%
+\contentsline {figure}{\numberline {3.63}{\ignorespaces Đồ thị SNR,lost,RSSI của SF11 }}{96}{figure.caption.159}%
+\contentsline {figure}{\numberline {3.64}{\ignorespaces Đồ thị SNR,lost,RSSI của SF12 }}{97}{figure.caption.162}%
+\contentsline {figure}{\numberline {3.65}{\ignorespaces Lắp đặt thiết bị tại bể nuôi tôm }}{99}{figure.caption.165}%
+\contentsline {figure}{\numberline {3.66}{\ignorespaces Lắp đặt thiết bị node thứ nhất }}{99}{figure.caption.166}%
+\contentsline {figure}{\numberline {3.67}{\ignorespaces Lắp đặt thiết bị node thứ hai }}{99}{figure.caption.167}%
+\contentsline {figure}{\numberline {3.68}{\ignorespaces Hiện thị dữ liệu và vị trí các Node trên bản đồ }}{100}{figure.caption.168}%
+\contentsline {figure}{\numberline {3.69}{\ignorespaces Hiện thị thiết bị trên Serverlab}}{100}{figure.caption.169}%

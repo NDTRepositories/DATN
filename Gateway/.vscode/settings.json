@@ -1,0 +1,14 @@
+{
+    "idf.adapterTargetName": "esp32s3",
+    "files.associations": {
+        "lora.h": "c",
+        "lcd_lib.h": "c",
+        "fontx.h": "c",
+        "decode_png.h": "c",
+        "ds3231.h": "c",
+        "datamanager.h": "c",
+        "i2cdev.h": "c",
+        "stdio.h": "c",
+        "sdkconfig.h": "c"
+    }
+}
