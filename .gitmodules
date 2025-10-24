@@ -1,0 +1,3 @@
+[submodule "Node1/mcu2/components/lvgl"]
+	path = Node1/mcu2/components/lvgl
+	url = https://github.com/lvgl/lvgl.git
